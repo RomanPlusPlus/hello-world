@@ -1,2 +1,2 @@
 # hello-world
-A repository for c++ tests
+My repository for c++ tests
